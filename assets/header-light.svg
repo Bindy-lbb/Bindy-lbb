@@ -3,7 +3,7 @@
     <g stroke="#D1DFD6" fill="none"><path d="M800 0v360M880 0v360M960 0v360M1040 0v360M1120 0v360M800 60h400M800 140h400M800 220h400M800 300h400"/></g>
     <g font-family="Segoe UI,Arial,sans-serif">
       <circle cx="53" cy="48" r="5" fill="#236B50"/>
-      <text x="70" y="54" fill="#236B50" font-size="16" font-weight="600" letter-spacing="3">IDEAS INTO INTERFACES</text>
+      <text x="70" y="54" fill="#236B50" font-size="16" font-weight="600" letter-spacing="3">AI APPLICATION ENGINEER</text>
       <text x="46" y="164" fill="#162B25" font-size="104" font-weight="750" letter-spacing="-6">Hi, I'm Bindy.</text>
       <text x="51" y="216" fill="#162B25" font-size="25" font-weight="500">RAG systems. AI workflows. Interactive experiences.</text>
       <path d="M51 253h678" stroke="#D1DFD6"/>
