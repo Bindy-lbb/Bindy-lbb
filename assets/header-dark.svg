@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title"><title id="title">Hi, I&#x27;m Bindy. AI applications, interactive 3D and useful tools.</title>
+    <rect width="1200" height="360" rx="20" fill="#12221D"/>
+    <g stroke="#304B3D" fill="none"><path d="M800 0v360M880 0v360M960 0v360M1040 0v360M1120 0v360M800 60h400M800 140h400M800 220h400M800 300h400"/></g>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <circle cx="53" cy="48" r="5" fill="#A3DAB4"/>
+      <text x="70" y="54" fill="#A3DAB4" font-size="16" font-weight="600" letter-spacing="3">IDEAS INTO INTERFACES</text>
+      <text x="46" y="164" fill="#EFF7F1" font-size="104" font-weight="750" letter-spacing="-6">Hi, I'm Bindy.</text>
+      <text x="51" y="216" fill="#EFF7F1" font-size="25" font-weight="500">AI applications. Interactive 3D. Useful tools.</text>
+      <path d="M51 253h678" stroke="#304B3D"/>
+      <text x="51" y="295" fill="#A8BFB1" font-size="18" letter-spacing="1.5">BUILD WITH CURIOSITY. SHIP WITH CARE.</text>
+    </g>
+    <g transform="translate(822 45)">
+      <circle cx="158" cy="135" r="112" fill="#1E362A" stroke="#304B3D"/>
+      <g stroke="#A3DAB4" stroke-width="2" fill="none" stroke-linejoin="round">
+        <path d="M158 53l80 46v93l-80 46-80-46V99zM78 99l80 47 80-47M158 146v92"/>
+        <path d="M118 76l80 47v92M118 122v93M78 146l80 46 80-46" opacity=".4"/>
+      </g>
+      <rect x="212" y="29" width="62" height="62" rx="13" fill="#A3DAB4"/>
+      <path d="M229 60l10-10m-10 10l10 10m18-20l-10 20" stroke="#12221D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <circle cx="67" cy="218" r="20" fill="#12221D" stroke="#A3DAB4" stroke-width="2"/>
+      <path d="M60 218h14m-7-7v14" stroke="#A3DAB4" stroke-width="2"/>
+    </g></svg>
