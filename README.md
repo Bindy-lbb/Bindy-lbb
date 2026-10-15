@@ -21,7 +21,7 @@
 从文档接入、知识检索和模型调用，到前端工作台与多服务部署，我喜欢把分散的能力串成可以实际使用的流程。
 
 - **做过的方向**：知识库问答、图谱增强检索、可视化工作流、文档解析与模型服务接入。
-- **最近在做**：AI 内容创作与数字人工作台、浏览器里的 3D 交互和实用工具。
+- **最近在做**：[WorkPilot 桌面 AI 编程工作台](https://github.com/amaxsmp/WorkPilot)、AI 内容创作与数字人工作台，以及浏览器里的 3D 交互。
 - **参与开源**：在 ByteFolk 的桌面工作区、设计系统与案例库中提交功能和修复。
 
 <a id="opensource"></a>
@@ -55,6 +55,18 @@
 
 <a id="projects"></a>
 ## 精选作品 / Selected work
+
+<a href="https://github.com/amaxsmp/WorkPilot"><img src="./assets/workpilot.svg" width="100%" alt="WorkPilot 桌面 AI 编程 Agent 工作台，点击查看项目与版本发布"></a>
+
+### WorkPilot · 桌面 AI 编程工作台
+
+围绕项目、对话、文件上下文与模型配置，提供桌面端 AI 编程工作空间，支持项目管理、技能调用提示与应用内更新。
+
+`Desktop App` `AI Coding Agent` `Windows`
+
+**[下载最新版本 ↗](https://github.com/amaxsmp/WorkPilot/releases/latest)** · [项目主页与使用说明](https://github.com/amaxsmp/WorkPilot)
+
+<sub>公开仓库提供 Windows 安装包与版本说明。</sub>
 
 <table>
 <tr>

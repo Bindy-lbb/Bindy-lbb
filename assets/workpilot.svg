@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title"><title id="title">WorkPilot — desktop AI coding agent workspace for Windows</title>
+<rect width="1200" height="240" rx="16" fill="#172D37"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#D3E5EB">
+  <text x="38" y="43" font-size="14" letter-spacing="2.6">FEATURED / DESKTOP AI WORKSPACE</text>
+  <text x="35" y="121" font-size="65" font-weight="650" letter-spacing="-2">WorkPilot</text>
+  <text x="39" y="164" font-size="21">Your projects. Your context. Your AI workspace.</text>
+  <text x="39" y="209" font-size="13" letter-spacing="2">AI CODING AGENT · WINDOWS</text>
+</g>
+<g transform="translate(820 36)" stroke="#9CC8D6" stroke-width="1.7" fill="none">
+  <rect width="316" height="169" rx="10"/><path d="M0 28h316M78 28v141"/>
+  <circle cx="16" cy="14" r="3" fill="#9CC8D6"/><circle cx="28" cy="14" r="3" fill="#9CC8D6" opacity=".6"/>
+  <path d="M17 49h43m-43 18h30m-30 18h37m-37 18h26" opacity=".5"/>
+  <rect x="98" y="46" width="194" height="39" rx="5" fill="#223F4B"/>
+  <path d="M112 59h86m-86 12h142M101 106h139m-139 13h109" opacity=".7"/>
+  <rect x="98" y="137" width="194" height="18" rx="5"/><path d="M274 142l5 4-5 4"/>
+</g></svg>
