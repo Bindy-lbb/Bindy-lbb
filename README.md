@@ -10,6 +10,7 @@
   <a href="#opensource">开源贡献</a> ·
   <a href="#engineering">AI 应用实践</a> ·
   <a href="#projects">精选作品</a> ·
+  <a href="#skills">Agent Skills</a> ·
   <a href="#toolbox">技术工具箱</a>
 </p>
 
@@ -102,6 +103,21 @@
 | [Leaflet 地图实验](https://github.com/Bindy-lbb/leaflet-demo-master) | 地图打点、标记、聚合与图层接入 | Vue · Leaflet |
 
 </details>
+
+<a id="skills"></a>
+## 可复用技能 / Agent Skills
+
+[**Bindy-skills →**](https://github.com/Bindy-lbb/Bindy-skills)
+
+把实际任务中验证过的工作流程整理成可复用的 Agent Skills，持续补充技能说明、参考规则、脚本与输出模板。
+
+| 技能 | 能做什么 | 输出 |
+| :--- | :--- | :--- |
+| [求职岗位匹配 · job-search-match](https://github.com/Bindy-lbb/Bindy-skills/tree/main/job-search-match) | 根据简历或求职条件查找岗位，核验来源、分析公司背景与匹配度，统一评分并持续查新 | 可筛选、勾选并排比较的独立 HTML 报告，附原始岗位链接与待确认项 |
+
+`Agent Skills` `AI Workflow` `Python` `HTML`
+
+技能按独立目录维护，可按需使用。仓库只收录通用流程与模板，不包含个人简历、岗位台账或投递记录；求职技能默认提供链接，由用户自行投递。
 
 <a id="toolbox"></a>
 ## 技术工具箱 / Toolbox
