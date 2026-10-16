@@ -2,13 +2,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Hi, I'm Bindy. RAG systems, AI workflows and interactive experiences.">
+  <img src="./assets/header-light.svg" width="100%" alt="Hi, I'm Bindy. Web applications, AI workflows and Three.js experiences.">
 </picture>
 
 <p align="center">
   <a href="#about">关于我</a> ·
   <a href="#opensource">开源贡献</a> ·
-  <a href="#engineering">AI 应用实践</a> ·
+  <a href="#engineering">开发方向</a> ·
   <a href="#projects">精选作品</a> ·
   <a href="#skills">Agent Skills</a> ·
   <a href="#toolbox">技术工具箱</a>
@@ -17,10 +17,12 @@
 <a id="about"></a>
 ## 你好，我是 Bindy
 
-**AI 应用开发工程师**，专注 RAG 知识库、AI 工作流与业务应用开发。
+**前端与 AI 应用开发工程师**，围绕 Web 应用、交互式 3D 和 AI 工作流，把想法做成可以体验、使用和持续迭代的工具。
 
-- **最近在做**：[WorkPilot 桌面 AI 编程工作台](https://github.com/amaxsmp/WorkPilot)、AI 内容创作与数字人工作台，以及浏览器里的 3D 交互。
-- **参与开源**：在 ByteFolk 的桌面工作区、设计系统与案例库中提交功能和修复。
+- **Web 与业务应用**：使用 React / Vue、TypeScript 开发工作台、管理界面和交互页面，配合 Node.js / Python 完成接口与服务集成。
+- **交互式 3D 与可视化**：使用 Three.js / React Three Fiber、SVG 和 Leaflet，探索 3D 展馆、二维与三维联动、接线模拟和地图交互；代表作品是 [PALEO 史前档案](https://github.com/Bindy-lbb/dinosaur)与[接线工坊 WiringLab](https://github.com/Bindy-lbb/wiringlab)。
+- **AI 应用与工具**：实践 RAG / GraphRAG、智能问答和内容工作流，参与 [WorkPilot 桌面 AI 编程工作台](https://github.com/amaxsmp/WorkPilot)，开发 [WritePilot 浏览器写作助手](https://github.com/Bindy-lbb/ai-write-auto)，并将可复用流程整理到 [Bindy-skills](https://github.com/Bindy-lbb/Bindy-skills)。
+- **开源协作与交付**：在 ByteFolk 的桌面工作区、设计系统与案例库中提交功能和修复，参与版本交付、演示部署与使用说明整理。
 
 <a id="opensource"></a>
 ## 开源中的足迹 / Open source
@@ -37,9 +39,17 @@
 [查看我的公开 PR →](https://github.com/pulls?q=is%3Apr+author%3ABindy-lbb+is%3Apublic)
 
 <a id="engineering"></a>
-## AI 应用实践 / AI Engineering
+## 开发方向 / What I build
 
-围绕 **RAG、智能问答和 AI 工作流** 做应用开发，参与从前端交互到服务集成与部署的过程。喜欢把复杂的技术能力做成直观、顺手的工具，让 AI 在实际业务中用起来。
+从界面、交互到服务集成和交付，关注工具的完整使用过程。不同项目采用不同技术，下面是已有实践的几个方向：
+
+| 方向 | 实践内容 | 对应项目 |
+| :--- | :--- | :--- |
+| Web 应用与前端交互 | React / Vue、TypeScript，工作台界面、组件与业务流程 | MUSE 数字人工作台、ByteFolk 开源贡献 |
+| Three.js 与交互式 3D | 模型观察、体型比较、二维与三维同步、接线检查及模拟 | [PALEO](https://github.com/Bindy-lbb/dinosaur)、[WiringLab](https://github.com/Bindy-lbb/wiringlab) |
+| AI 与知识应用 | RAG / GraphRAG、文档解析、检索与重排、模型 API 和内容工作流集成 | AI 问答与内容工具、MUSE 工作台实践 |
+| 桌面应用与浏览器扩展 | 桌面工作空间、浏览器内容提取与写作辅助、版本交付 | [WorkPilot](https://github.com/amaxsmp/WorkPilot)、[WritePilot](https://github.com/Bindy-lbb/ai-write-auto) |
+| 数据工具与流程复用 | Python 数据脚本、地图交互、可复用 Agent Skills | [asock](https://github.com/Bindy-lbb/asock)、[Leaflet 地图实验](https://github.com/Bindy-lbb/leaflet-demo-master)、[Bindy-skills](https://github.com/Bindy-lbb/Bindy-skills) |
 
 <a id="projects"></a>
 ## 精选作品 / Selected work
@@ -132,8 +142,10 @@
   <img src="./assets/tech-git.svg" alt="Git" width="120" height="34">
 </p>
 
-**前端与交互** — React / Vue、TypeScript、Vite、Three.js / React Three Fiber、SVG、Leaflet。<br>
-**应用与工作流** — Node.js / NestJS、Python / FastAPI、可视化工作流、浏览器扩展、模型 API 接入。<br>
+**Web 与前端** — React / Vue、TypeScript、Vite、组件与业务界面。<br>
+**3D 与可视化** — Three.js / React Three Fiber、SVG、Leaflet，模型展示、场景交互与二维 / 三维联动。<br>
+**服务与应用集成** — Node.js / NestJS、Python / FastAPI、模型 API 接入。<br>
+**工具与自动化** — 桌面工作台、浏览器扩展、可视化工作流、Agent Skills。<br>
 **知识与检索** — RAG / GraphRAG、Embedding、Reranker、文档解析、知识图谱可视化。<br>
 **数据与交付** — MongoDB、Neo4j、OceanBase、Prisma / SQLite、Supabase、Docker Compose、Nginx、GitHub Actions。
 
